@@ -4,6 +4,7 @@ A simple react web page that returns recommendations for workouts based on user 
 Tailwind CSS used for styling.
 
 Not my original project, used for learning
+
 Original - https://github.com/jamezmca/swoley-fit
 
 Used Vite for React template, following plugins used.
