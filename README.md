@@ -1,4 +1,4 @@
-Fit-via-Bits
+# Fit-via-Bits
 
 A simple react web page that returns recommendations for workouts based on user selection.
 Tailwind CSS used for styling.
