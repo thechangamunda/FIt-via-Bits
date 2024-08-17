@@ -3,7 +3,7 @@
 A simple react web page that returns recommendations for workouts based on user selection.
 Tailwind CSS used for styling.
 
-Live link: fit-via-bits.netlify.app
+Live link: [fit-via-bits](https://fit-via-bits.netlify.app/)
 
 Not my original project, used for learning
 
